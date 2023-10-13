@@ -1,2 +1,2 @@
 run:
-	node main.cjs
+	node index.js
